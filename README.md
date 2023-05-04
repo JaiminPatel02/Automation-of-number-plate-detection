@@ -1,5 +1,8 @@
 # Automation of Number Plate Detection
 
+
+https://github.com/JaiminPatel02/Automation-of-number-plate-detection/blob/main/Screenshot%202023-05-04%20at%202.10.46%20PM.png?raw=true
+
 # python work
 This is a Python script that detects number plates in a video and saves the corresponding images to a specified folder. Additionally, it sends the saved images to a server using HTTP requests.
 
