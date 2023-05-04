@@ -1,0 +1,151 @@
+
+.search {
+    position: relative;
+    width: 200px;
+    height: 27px;
+    float: right;
+    margin-top: 10px;
+    border-radius: 8px;
+    background: transparent;
+    margin-right: 10px;
+  }
+  
+  .search_icon{
+    float: right;
+    margin-top: 0.8%;
+    height: 27px;
+    
+  }
+  
+  
+  
+  table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 1px;
+    width: 90%;
+    top: 5%;
+    margin-left: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  
+  
+  
+  tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+    align-items: center;
+  
+  }
+  
+  body * {
+    box-sizing: border-box;
+    
+  }
+  
+  table tr:nth-child(2n+1) {
+    background-color: #f4f4f4;
+  }
+  
+  table tr:nth-child(2n) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  tr {
+    display: table-row;
+    vertical-align: inherit;
+    color: #171819;
+    /* border-color: inherit; */
+  
+  }
+  
+  table th {
+    background-color: #1d542e;
+    color: #f4f4f4;
+    /* background: linear-gradient(#444, #111); */
+    
+    text-align: center;
+  }
+  
+  table th {
+    color: #f4fff7fa;
+    padding: 10px;
+  
+  }
+  
+  td {
+    display: table-cell;
+    vertical-align: inherit;
+    text-align: center;
+  }
+  
+  table td,
+  table th {
+    color: #f4ecec;
+    padding: 10px;
+  }
+  table td,
+  table tr {
+    color: #104d10;
+    padding: 10px;
+  }
+  
+  .modal-backdrop.show {
+    opacity: 0.05 !important;
+  
+  }
+  
+  .modal-content {
+    width: 127%;
+  }
+  
+  
+  .tbbar {
+    /* background-color: #9da5a7; */
+    margin-top: 5px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 45px;
+  }
+  
+  .imp{
+    left: 30%;
+  position: relative;
+  
+  }
+  
+  .short{
+    background: none;
+    border: none;
+  }
+  .btn{
+    border-radius: 10px;
+  }
+  body{
+    min-height: 100vh !important;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  .page-container{
+    position: relative;
+    min-height: 100vh;
+  }
+  #content-wrap {
+    padding-bottom: 2.5rem;} 
+  
+    .History{
+      background-color: #66727d;
+    }
+    .btn-danger{
+      height: 75%;
+      margin-top: 0.5%;
+  
+    }

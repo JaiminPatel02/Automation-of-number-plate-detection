@@ -1,0 +1,112 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.topnav {
+  overflow: hidden;
+
+  background-color: rgb(211, 240, 190); 
+  background: linear-gradient(#b2f7b7, #246f24); 
+
+}
+
+.topnav .ant-menu-item-selected {
+  font-size:larger;
+  background-color: #1b0f0f;
+  transition: 0.2s cubic-bezier(0, 0.24, 0.86, 1.08) all;
+  transform: scale(1);
+}
+
+.topnav{
+ 
+  color: #0f0e0e;
+  text-align: center;
+  /* padding: 8px 16px; */
+  font-weight:500;
+  font-size: 20px;
+ 
+}
+
+.topnav .menu-item:hover{
+  
+  background-color: rgb(89, 134, 93);
+
+}
+
+:where(.css-dev-only-do-not-override-ixblex).ant-menu-light.ant-menu-horizontal >.ant-menu-item:hover::after{
+  border-bottom-color: transparent;
+  border-bottom-width: 2px;
+  
+}
+
+.ant-menu-light .ant-menu-item:hover:not( .ant-
+menu- item- selected):not( .ant-menu- submenu- selected){
+  color: black;
+  
+}
+
+.ant-menu-horizontal > .ant-menu-item-selected::after {
+  border-bottom-color: transparent !important;
+  border-bottom: 100px;
+ 
+} 
+
+.ant-menu-horizontal:hover{
+  background-color: aliceblue !important;
+  border-bottom-color: transparent !important;
+}
+
+#bell{
+  /* float: right !important; */
+  font-size: 25px;
+  color: rgb(242, 241, 241);
+  /* margin: 11px 20px; */
+  outline: none;
+  /* display:contents;    */
+
+}
+
+
+.notifications-count {
+  position: absolute;
+  top: 0px;
+  right: 8px;
+  width: 40px;
+  height: 0px;
+  color: #fff;
+  font-size: 27px;
+  font-family: Arial;
+  /* font-weight: bold; */
+  text-align: center;
+  line-height: 0;
+  padding:18px 6px 15px 5px;
+  background-color: #da3225;
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px #32333b;
+  
+  transition: 0.3s cubic-bezier(0, 0.24, 0.86, 1.08) all;
+  transform: scale(0.4);
+  opacity: 1;
+}
+
+.ghantdi{
+  right: 0px;
+  position: absolute;
+  height: 50px;
+  width: 80px;
+  /* margin-top: 0.1%; */
+}
+
+.img{
+  width: 500px;
+  background-color: transparent;
+}
+
+
+.logout{
+ 
+  position: relative;
+}
+
+.ant-menu-overflow-item ant-menu-item ant-menu-item-selected ant-menu-item-only-child menu-item
+{
+    background-color: rgb(134, 203, 135);
+}
