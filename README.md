@@ -2,7 +2,14 @@
 
 # Images of frontend
 
+<img width="500" alt="Screenshot 2023-05-04 at 2 10 46 PM" src="https://user-images.githubusercontent.com/132324275/236158607-dfbe6d16-ecb2-46ba-83ee-a36da83e9b3e.png">
 
+
+<img width="500" alt="Screenshot 2023-05-04 at 2 13 17 PM" src="https://user-images.githubusercontent.com/132324275/236158649-5da4c770-a59d-407a-8567-5b96798ba8f1.png">
+
+<img width="500" alt="Screenshot 2023-05-04 at 2 13 27 PM" src="https://user-images.githubusercontent.com/132324275/236158642-16567aa5-bc9f-4a40-ba9c-8a6f911ee0b5.png">
+
+<img width="500" alt="Screenshot 2023-05-04 at 2 14 06 PM" src="https://user-images.githubusercontent.com/132324275/236158985-efc749d4-2d27-4c42-9e86-3f233f4d9c40.png">
 
 
 # python work
